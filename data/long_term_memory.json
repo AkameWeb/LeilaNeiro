@@ -1,0 +1,42 @@
+{
+  "user_info": {
+    "name": "Даниил",
+    "age": 20,
+    "gender": null,
+    "location": null,
+    "profession": null
+  },
+  "user_traits": {},
+  "user_likes": {
+    "твой новый мир и ты увидешь то": 1
+  },
+  "user_dislikes": {
+    "когда у меня ничего не выходит": 1
+  },
+  "user_beliefs": {},
+  "important_dates": [],
+  "conversation_topics": {
+    "мечты": 6,
+    "здоровье": 1,
+    "любовь": 1,
+    "работа": 2,
+    "семья": 1
+  },
+  "emotional_moments": [],
+  "personal_stories": [],
+  "questions_user_asked": {
+    "что": 3,
+    "где": 1,
+    "как": 5
+  },
+  "things_i_learned": [
+    {
+      "fact": "Тебя зовут Даниил",
+      "date": "2026-05-01T02:11:43.277449"
+    },
+    {
+      "fact": "Тебе 20 лет",
+      "date": "2026-05-01T02:11:56.307374"
+    }
+  ]
+}

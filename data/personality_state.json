@@ -1,0 +1,20 @@
+{
+  "traits": {
+    "empathy": 0.7,
+    "judgmental": 0.5,
+    "kindness": 0.6,
+    "honesty": 0.8,
+    "emotionality": 0.7,
+    "curiosity": 0.8,
+    "talkativeness": 0.6
+  },
+  "topic_preferences": {},
+  "topic_mentions": {
+    "технологии": 4
+  },
+  "mood": "счастлива",
+  "energy": 87.90179264068661,
+  "fatigue": 0,
+  "awake_hours": 0.33606131553649843,
+  "last_save": "2026-09-22T16:45:29.427268"
+}

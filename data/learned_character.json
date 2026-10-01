@@ -1,0 +1,17 @@
+{
+  "learned_traits": {
+    "empathy": 0.5,
+    "humor": 0.3,
+    "patience": 0.7400000000000001,
+    "emotionality": 0.56,
+    "curiosity": 0.78,
+    "talkativeness": 0.5,
+    "sarcasm": 0.2,
+    "warmth": 0.5
+  },
+  "user_patterns": {
+    "topics_liked": {},
+    "emotions_detected": {}
+  },
+  "last_updated": "2026-05-05T00:11:27.313861"
+}
